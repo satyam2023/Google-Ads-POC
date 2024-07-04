@@ -1,4 +1,8 @@
 {
   "name": "adPOC",
-  "displayName": "adPOC"
+  "displayName": "adPOC",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5993804715145774~8185797849",
+    "ios_app_id":"ca-app-pub-5993804715145774~4191546661"
+  }
 }
